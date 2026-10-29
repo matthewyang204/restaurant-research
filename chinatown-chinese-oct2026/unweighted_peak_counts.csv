@@ -26,4 +26,4 @@ index,name,address,inspection_records,peak_date,peak_violation_count,coverage,so
 25,San Wang Restaurant,"1682 Post St, San Francisco, CA",0,,,no matching inspection record found,no matching record
 26,Tsing Tao Restaurant,"1117 Fillmore St, San Francisco, CA",3,4/4/25,5,matched,DataSF
 27,Harborview Restaurant & Bar,"San Francisco, CA",3,4/23/26,13,matched,DataSF
-example,Grant Place Restaurant (example),"737 Washington St, San Francisco, CA 94108",1 example inspection,3/25/25,8,example included for comparison,example.txt and WhatNow articles
+example,Grant Place Restaurant (example),"737 Washington St, San Francisco, CA 94108",2 example inspections,3/25/25,8,example included for comparison,example.txt and WhatNow articles
