@@ -1,0 +1,38 @@
+name: Generate directory listings
+
+on:
+  push:
+    paths:
+      - '**/*'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  listings:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate directory listings
+        uses: gacts/directory-listing@v1
+        with:
+          target: .
+          ignore: |
+            .git/**
+            .github/**
+            **/index.html
+          overwrite: true
+
+      - name: Commit generated listings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add '*/index.html' '*/**/index.html'
+          if ! git diff --cached --quiet; then
+            git commit -m "Generate directory listings"
+            git push
+          fi
