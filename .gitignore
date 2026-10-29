@@ -1,0 +1,9 @@
+# IDE junk
+.vscode/
+.idea/
+
+# macOS annoyances
+.DS_Store
+
+# Office stuff
+~$*
