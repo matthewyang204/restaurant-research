@@ -1,0 +1,29 @@
+index,name,address,inspection_records,peak_date,peak_violation_count,coverage,source
+1,Chinatown Restaurant,"744 Washington St, San Francisco, CA",1,4/7/25,10,matched,DataSF
+2,Chong Qing Xiao Mian,"915 Kearny St, San Francisco, CA",4,5/22/25,9,matched,DataSF
+3,Z & Y Peking Duck,"606 Jackson St, San Francisco, CA",5,1/5/26,7,matched,DataSF
+4,Z & Y Restaurant,"655 Jackson St, San Francisco, CA",1,7/20/26,9,matched,DataSF
+5,R & G Lounge,"631 Kearny St, San Francisco, CA",0,,,no matching inspection record found,no matching record
+6,Henry’s Hunan Restaurant,"110 Natoma St, San Francisco, CA",4,4/30/26,7,matched,DataSF
+7,Bamboo Restaurant,"1441 Polk St, San Francisco, CA",2,1/16/25,10,matched,DataSF
+8,Sam Wo Restaurant,"713 Clay St, San Francisco, CA",2,6/9/25,8,matched,DataSF
+9,Imperial Palace,"818 Washington St, San Francisco, CA",3,3/24/25,6,matched,DataSF
+10,City Chopsticks,"883 Bush St, San Francisco, CA",3,6/24/25,4,matched,DataSF
+11,Hunan House,"826 Washington St, San Francisco, CA",2,6/16/26,8,matched,DataSF
+12,Mister Jiu’s,"28 Waverly Pl, San Francisco, CA",3,9/4/25,10,matched,DataSF
+13,606,"606 Broadway, San Francisco, CA",1,9/3/25,2,matched,DataSF
+14,China Live,"644 Broadway, San Francisco, CA",11,6/12/25,11,matched,DataSF
+15,Far East Cafe,"631 Grant Ave, San Francisco, CA",2,4/3/25,4,matched,DataSF
+16,Yank Sing,"49 Stevenson St, San Francisco, CA",1,9/8/26,1,matched,DataSF
+17,Spicy & Cloud Restaurant,"823 Clay St, San Francisco, CA",3,4/15/25,0,matched,DataSF
+18,Bow Hon Restaurant,"850 Grant Ave, San Francisco, CA",1,5/28/25,8,matched,DataSF
+19,Amazing Kitchen,"101 Cyril Magnin St, San Francisco, CA",3,1/8/26,7,matched,DataSF
+20,Fang,"660 Howard St, San Francisco, CA",3,2/25/25,6,matched,DataSF
+21,House of Nanking,"919 Kearny St, San Francisco, CA",2,6/9/25,5,matched,DataSF
+22,Eight Tables by George Chen,"8 Kenneth Rexroth Pl, San Francisco, CA",0,,,no matching inspection record found,no matching record
+23,Golden Kim Tar,"434 Larkin St, San Francisco, CA",2,2/7/25,4,matched,DataSF
+24,Hunan Empire Restaurant,"2001 Union St, San Francisco, CA",1,1/13/25,1,matched,DataSF
+25,San Wang Restaurant,"1682 Post St, San Francisco, CA",0,,,no matching inspection record found,no matching record
+26,Tsing Tao Restaurant,"1117 Fillmore St, San Francisco, CA",3,4/4/25,5,matched,DataSF
+27,Harborview Restaurant & Bar,"San Francisco, CA",3,4/23/26,13,matched,DataSF
+example,Grant Place Restaurant (example),"737 Washington St, San Francisco, CA 94108",1 example inspection,3/25/25,8,example included for comparison,example.txt and WhatNow articles

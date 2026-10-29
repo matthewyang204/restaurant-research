@@ -1,0 +1,28 @@
+index,name,address,record_count,sum_reported_counts,peak_date,peak_dba,peak_status,peak_violation_count,peak_severity,severity_weight,weighted_score,coverage
+1,Chinatown Restaurant,"744 Washington St, San Francisco, CA",1,10,2025-04-07,CHINATOWN RESTAURANT INC,Pass,10,High,3,30,matched
+2,Chong Qing Xiao Mian,"915 Kearny St, San Francisco, CA",4,16,2025-05-22,CHONGQING XIAOMIAN,Pass,9,High,3,27,matched
+3,Z & Y Peking Duck,"606 Jackson St, San Francisco, CA",5,20,2026-01-05,Z & Y BISTRO,Pass,7,High,3,21,matched
+4,Z & Y Restaurant,"655 Jackson St, San Francisco, CA",1,9,2026-07-20,Z & Y RESTAURANT,Pass,9,High,3,27,matched
+5,R & G Lounge,"631 Kearny St, San Francisco, CA",0,0,,,,,,,,no matching inspection record found
+6,Henry’s Hunan Restaurant,"110 Natoma St, San Francisco, CA",4,12,2026-04-30,HENRYS HUNAN,Pass,7,High,3,21,matched
+7,Bamboo Restaurant,"1441 Polk St, San Francisco, CA",2,11,2025-01-16,BAMBOO RESTAURANT,Pass,10,High,3,30,matched
+8,Sam Wo Restaurant,"713 Clay St, San Francisco, CA",2,12,2025-06-09,SAM WO RESTAURANT AND BAKERY,Closure,8,High,3,24,matched
+9,Imperial Palace,"818 Washington St, San Francisco, CA",3,8,2025-03-24,IMPERIAL PALACE RESTAURANT,Conditional Pass,6,High,3,18,matched
+10,City Chopsticks,"883 Bush St, San Francisco, CA",3,4,2025-06-24,CITY CHOPSTICKS,Pass,4,High,3,12,matched
+11,Hunan House,"826 Washington St, San Francisco, CA",2,8,2026-06-16,HUNAN HOUSE,Closure,8,High,3,24,matched
+12,Mister Jiu’s,"28 Waverly Pl, San Francisco, CA",3,13,2025-09-04,MISTER JIU'S,Pass,10,High,3,30,matched
+13,606,"606 Broadway, San Francisco, CA",1,2,2025-09-03,NEW SUN HONG KONG RESTR INC,Pass,2,High,3,6,matched
+14,China Live,"644 Broadway, San Francisco, CA",11,31,2025-06-12,CHINA LIVE,Conditional Pass,11,High,3,33,matched
+15,Far East Cafe,"631 Grant Ave, San Francisco, CA",2,4,2025-04-03,FAR EAST CAFE,Pass,4,High,3,12,matched
+16,Yank Sing,"49 Stevenson St, San Francisco, CA",1,1,2026-09-08,YANK SING,Pass,1,Moderate,2,2,matched
+17,Spicy & Cloud Restaurant,"823 Clay St, San Francisco, CA",3,0,2025-04-15,SPICY & CLOUD RESTAURANT,Pass,0,Low,1,0,matched
+18,Bow Hon Restaurant,"850 Grant Ave, San Francisco, CA",1,8,2025-05-28,BOW HON RESTAURANT,Pass,8,High,3,24,matched
+19,Amazing Kitchen,"101 Cyril Magnin St, San Francisco, CA",3,13,2026-01-08,AMAZING KITCHEN LLC,Closure,7,High,3,21,matched
+20,Fang,"660 Howard St, San Francisco, CA",3,11,2025-02-25,FANG,Pass,6,High,3,18,matched
+21,House of Nanking,"919 Kearny St, San Francisco, CA",2,5,2025-06-09,HOUSE OF NANKING,Pass,5,High,3,15,matched
+22,Eight Tables by George Chen,"8 Kenneth Rexroth Pl, San Francisco, CA",0,0,,,,,,,,no matching inspection record found
+23,Golden Kim Tar,"434 Larkin St, San Francisco, CA",2,8,2025-02-07,GOLDEN KIM TAR RESTAURANT,Pass,4,High,3,12,matched
+24,Hunan Empire Restaurant,"2001 Union St, San Francisco, CA",1,1,2025-01-13,HUNAN EMPIRE,Pass,1,High,3,3,matched
+25,San Wang Restaurant,"1682 Post St, San Francisco, CA",0,0,,,,,,,,no matching inspection record found
+26,Tsing Tao Restaurant,"1117 Fillmore St, San Francisco, CA",3,10,2025-04-04,TSING TAO 2 CHINESE RESTAURANT,Pass,5,High,3,15,matched
+27,Harborview Restaurant & Bar,"San Francisco, CA",3,31,2026-04-23,HARBORVIEW RESTAURANT & BAR,Pass,13,High,3,39,matched

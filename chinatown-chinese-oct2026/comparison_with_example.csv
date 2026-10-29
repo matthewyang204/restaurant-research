@@ -1,0 +1,29 @@
+index,name,address,peak_violation_count,peak_severity,severity_weight,weighted_score,source
+1,Chinatown Restaurant,"744 Washington St, San Francisco, CA",10,High,3,30,DataSF
+2,Chong Qing Xiao Mian,"915 Kearny St, San Francisco, CA",9,High,3,27,DataSF
+3,Z & Y Peking Duck,"606 Jackson St, San Francisco, CA",7,High,3,21,DataSF
+4,Z & Y Restaurant,"655 Jackson St, San Francisco, CA",9,High,3,27,DataSF
+5,R & G Lounge,"631 Kearny St, San Francisco, CA",,,,,no matching record
+6,Henry’s Hunan Restaurant,"110 Natoma St, San Francisco, CA",7,High,3,21,DataSF
+7,Bamboo Restaurant,"1441 Polk St, San Francisco, CA",10,High,3,30,DataSF
+8,Sam Wo Restaurant,"713 Clay St, San Francisco, CA",8,High,3,24,DataSF
+9,Imperial Palace,"818 Washington St, San Francisco, CA",6,High,3,18,DataSF
+10,City Chopsticks,"883 Bush St, San Francisco, CA",4,High,3,12,DataSF
+11,Hunan House,"826 Washington St, San Francisco, CA",8,High,3,24,DataSF
+12,Mister Jiu’s,"28 Waverly Pl, San Francisco, CA",10,High,3,30,DataSF
+13,606,"606 Broadway, San Francisco, CA",2,High,3,6,DataSF
+14,China Live,"644 Broadway, San Francisco, CA",11,High,3,33,DataSF
+15,Far East Cafe,"631 Grant Ave, San Francisco, CA",4,High,3,12,DataSF
+16,Yank Sing,"49 Stevenson St, San Francisco, CA",1,Moderate,2,2,DataSF
+17,Spicy & Cloud Restaurant,"823 Clay St, San Francisco, CA",0,Low,1,0,DataSF
+18,Bow Hon Restaurant,"850 Grant Ave, San Francisco, CA",8,High,3,24,DataSF
+19,Amazing Kitchen,"101 Cyril Magnin St, San Francisco, CA",7,High,3,21,DataSF
+20,Fang,"660 Howard St, San Francisco, CA",6,High,3,18,DataSF
+21,House of Nanking,"919 Kearny St, San Francisco, CA",5,High,3,15,DataSF
+22,Eight Tables by George Chen,"8 Kenneth Rexroth Pl, San Francisco, CA",,,,,no matching record
+23,Golden Kim Tar,"434 Larkin St, San Francisco, CA",4,High,3,12,DataSF
+24,Hunan Empire Restaurant,"2001 Union St, San Francisco, CA",1,High,3,3,DataSF
+25,San Wang Restaurant,"1682 Post St, San Francisco, CA",,,,,no matching record
+26,Tsing Tao Restaurant,"1117 Fillmore St, San Francisco, CA",5,High,3,15,DataSF
+27,Harborview Restaurant & Bar,"San Francisco, CA",13,High,3,39,DataSF
+example,Grant Place Restaurant (example),"737 Washington St, San Francisco, CA 94108",8,High,3,24,example.txt and WhatNow articles

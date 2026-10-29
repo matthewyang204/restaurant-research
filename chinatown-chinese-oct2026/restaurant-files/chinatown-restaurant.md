@@ -1,0 +1,29 @@
+# Chinatown Restaurant
+
+**Address supplied:** 744 Washington St, San Francisco, CA
+**Research window:** 2025-01-01 through 2026-10-28 (inclusive).
+
+## Summary
+
+- Matched inspection records: 1.
+- Sum of reported violations across records: 10 (repeat visits can recount the same continuing problem; this is not used as the restaurant comparison statistic).
+- Peak record used in the comparison: 2025-04-07; 10 violations; status **Pass**; severity **High** (weight 3); weighted score **30**.
+- Official business name in that record: CHINATOWN RESTAURANT INC. Address match is used when the official DBA differs from the supplied listing.
+
+## Inspection records
+
+### 2025-04-07 — 10 violations
+- Official DBA: CHINATOWN RESTAURANT INC; address: 744 WASHINGTON ST.
+- Inspection type: Routine; status: **Pass**.
+- Severity index: **High** (weight 3); weighted count: **30**.
+- Official source row: [2025-04-07 record](https://data.sf.gov/resource/tvy3-wexg.json?%24where=permit_number%3D%2730428%27+AND+inspection_date%3D%272025-04-07T00%3A00%3A00.000%27+AND+dba%3D%27CHINATOWN+RESTAURANT+INC%27).
+
+**Violation codes and published narrative:**
+
+114002, 114002.1 - Rapidly cool potentially hazardous foods from 135°F to 70°F within 2 hours, then from 70°F to 41°F within 4 hours. Discontinue cooling PHF's at room temperature.  Rapid cool by any of the following approved methods: 1) Ice water bath 2) Ice wand 3) Shallow stainless steel pans filled 2-3 inches and store in refrigerator 4) Separate into smaller or thinner portions and store in refrigerator 5) Blast chiller 6) Any combination of the above. Use the following approved methods provided on the rapid cooling guideline., 113996, 113998, 114037, 114429, 114429.3, 114429.5 - Keep potentially hazardous foods (PHF) cold at 41°F or below or hot held at 135°F or above. Immediately discontinue storing PHF at room temperature.,  - Food, equipment, or utensils that are found to be unsanitary or in disrepair may be Voluntarily Condemned and Destroyed by the person in charge., 114047, 114049, 114051, 114053, 114055, 114069(b) - Elevate all food at least 6 inches off of the floor to prevent contamination. Properly label bulk ingredient/food containers with common name., 114254-114254.2 - Administer all pesticides through a state licensed pest control operator. Immediately discontinue the use of unapproved pesticide at the food facility. Store all poisonous substances, detergents, bleaches, and cleaning compounds away from food, utensils, packaging materials, and food-contact surfaces. Provide label to working containers of chemicals taken from bulk supplies with the common name of the material. Provide legible manufacturer's label to containers of poisonous or toxic materials and personal care items., 114000 - Label all potentially hazardous foods for use with Time as a Public Health Control implementation with the date and discard time. The discard time shall be 4 hours after food preparation has begun or after removing from proper temperature controls of 41°F or 135°F. Discard potentially hazardous foods, under Time as a Public Health Control, when 4 hours have elapsed. Obtain written approval for Time as Public Health Control from San Francisco Environmental Health., 114250, 114250.1, 114276 - Maintain toilet facilities clean, sanitary, and in good repair. Toilet rooms shall be separated by a well-fitting self-closing door. Toilet tissue shall be provided in a permanently installed dispenser at each toilet. The number of toilet facilities shall be in accordance with local building and plumbing ordinances. Toilet facilities shall be provided for patrons: in establishments where there is onsite consumption of food; with more than 20,000 sq ft.; establishments offering on-site liquor consumption., 114259, 114259.1, 114259.4, 114259.5 - Eliminate the infestation/activity of cockroaches/rodents/flies/vermin from the food facility by using only approved methods. Remove all evidence of the infestation and thoroughly clean and sanitize all affected surfaces. Construct, equip, maintain and operate the food facility so as to prevent the entrance and harborage of animals, birds and vermin including, but not limited to, rodents and insects., 114171, 114189.1, 114190, 114192, 114193, 114193.1, 114199, 114201, 114269 - Protect the potable water supply with a backflow protection device, as required by applicable plumbing codes. All plumbing, plumbing fixtures, and grease interceptors shall be installed in compliance with local plumbing ordinances, shall be maintained so as to prevent any contamination, and shall be kept clean, fully operative, and in good repair. Any hose used for conveying potable water shall be of approved materials, labeled, properly stored, and used for no other purpose., 114143(d), 114266, 114268, 114268.1, 114271, 114272 - Provide walls / ceilings using materials that are durable, smooth, nonabsorbent, light-colored, and washable surfaces. All floor surfaces, other than the customer service areas, shall be approved, smooth, durable, and made of nonabsorbent material that is easily cleanable. Approved base coving shall be provided in all areas, except customer service areas and where food is stored in original unopened containers. Food facilities shall be fully enclosed. All food facilities shall be kept clean and in good repair.
+
+## Research and source links
+
+- [DataSF Health Inspection Scores (2024–Present)](https://data.sf.gov/Health-and-Social-Services/Health-Inspection-Scores-2024-Present-/tvy3-wexg).
+- [San Francisco inspection lookup](https://inspections.myhealthdepartment.com/san-francisco).
+- [Google search for this restaurant and inspection reports](https://www.google.com/search?q=Chinatown%20Restaurant%20San%20Francisco%20restaurant%20health%20inspection%202025%202026).
