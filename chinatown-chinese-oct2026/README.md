@@ -1,0 +1,2 @@
+# Chinatown Chinese Restaurants - October 2026
+This is a large collection of research I did hastily to aid in some decisions in helping the school plan a day-trip there. The school already had selected The Grant Place, so I wanted to research on the topic of health code and such. As such, this is largely focused on health codes and violations, along with safety and cleanliness. Findings are in [Findings.md](Findings.md).
